@@ -27,7 +27,7 @@ Sample data is available in the `data/` folder.
 
 The JSON logs on user activity have the following structure.
 
-![log data](log-data.png)
+![log data](https://github.com/Abdelrhman2022/Sparkify-Dend-Data-Lake-with-Apache-Spark/blob/main/Images/log-data.png)
 
 ### Song Data
 
@@ -45,6 +45,8 @@ like.
 
 Star schema optimized for queries on song play analysis. This includes the
 following tables.
+
+![Schema](https://github.com/Abdelrhman2022/Sparkify-Dend-Data-Lake-with-Apache-Spark/blob/main/Images/Star schema.png)
 
 ### Fact Table
 
