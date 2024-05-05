@@ -46,7 +46,7 @@ like.
 Star schema optimized for queries on song play analysis. This includes the
 following tables.
 
-![Schema](https://github.com/Abdelrhman2022/Sparkify-Dend-Data-Lake-with-Apache-Spark/blob/main/Images/Star schema.png)
+![Schema](https://github.com/Abdelrhman2022/Sparkify-Dend-Data-Lake-Using-Apache-Spark/blob/main/Images/Star%20schema.png)
 
 ### Fact Table
 
